@@ -15,7 +15,7 @@ function App() {
               <i className="fa-solid fa-home text-light contact-info mr-3"></i>
               <a href="" className="navbar-sm-brand text-light text-decoration-none
             contact-info mr-3">
-                NO:156, K.M.H Plaza, Gandhi bazar,Gingee
+                NO:156, K.M.H Plaza, Gandhi bazar,Gingee-604202.
               </a>
               <i className="fa-solid fa-phone contact-info mr-3 text-light"></i>
               <a href="" className="navbar-sm-brand text-white text-decoration-none
